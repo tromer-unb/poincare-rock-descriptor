@@ -17,7 +17,7 @@ the Poincaré disk and combines three levels of structural information:
 ```text
 .
 ├── descriptor.py
-├── structures/
+├── structures.tar.gz
 │   ├── patch_y3800_x3800_c0_mask.png
 │   ├── patch_y7600_x19000_c0_mask.png
 │   └── patch_y7600_x53200_c0_mask.png
